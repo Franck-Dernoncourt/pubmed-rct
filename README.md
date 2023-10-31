@@ -21,7 +21,7 @@ You are most welcome to share with us your analyses or work using this dataset!
 
 ## License
 
-Our dataset is constructed upon the MEDLINE/PubMed Baseline Database published in 2016, which we referred to as PubMed in the paper. Unfortunately, we don't see any license for the PubMed dataset on <https://www.nlm.nih.gov/databases/download/pubmed_medline.html>, which isn't surprising given the shamefully high prevalence of paywalls in research.
+Our dataset is constructed upon the MEDLINE/PubMed Baseline Database published in 2016, which we referred to as PubMed in the paper. Unfortunately, we don't see any license for the PubMed dataset on the [official website](https://www.nlm.nih.gov/databases/download/pubmed_medline.html), which isn't surprising given the shamefully high prevalence of paywalls in research.
 
 <https://ftp.ncbi.nlm.nih.gov/pubmed/baseline/README.txt> mentions:
 
