@@ -17,3 +17,22 @@ You are most welcome to share with us your analyses or work using this dataset!
 ## Projects using the PubMed 200k RCT dataset
 
 - Titipat Achakulvisut, Chandra Bhagavatula, Daniel E Acuna, Konrad P Kording. [Claim Extraction for Scientific Publications](https://github.com/titipata/detecting-scientific-claim). 2018
+- See [Google Scholar citations](https://scholar.google.com/scholar?cites=7257105737642724511&as_sdt=2005&sciodt=0,5&hl=en) for more projects.
+
+## License
+
+Our dataset is constructed upon the MEDLINE/PubMed Baseline Database published in 2016, which we referred to as PubMed in the paper. Unfortunately, we don't see any license for the PubMed dataset on <https://www.nlm.nih.gov/databases/download/pubmed_medline.html>, which isn't surprising given the shamefully high prevalence of paywalls in research.
+
+<https://ftp.ncbi.nlm.nih.gov/pubmed/baseline/README.txt> mentions:
+
+> NLM freely provides PubMed data. Please note some abstracts may be protected by copyright.
+
+and
+
+> NLM does not provide legal advice regarding copyright, fair use, or other aspects of intellectual property rights. See the NLM Copyright page:  <https://www.nlm.nih.gov/web_policies.html#copyright>
+
+while <https://www.nlm.nih.gov/web_policies.html#copyright> mentions:
+
+> User Responsibility: It is your responsibility to determine and satisfy copyright or other use restrictions when using materials that are not in the public domain. NLM cannot guarantee the copyright status for any item.
+
+Also, FYI: [Am I allowed to republish / distribute abstracts?](https://academia.stackexchange.com/q/29015/452)
